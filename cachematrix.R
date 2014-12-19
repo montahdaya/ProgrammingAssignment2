@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-makeCacheMatrix <- function(x = matrix()) { x=x+1
+makeCacheMatrix <- function(x = matrix()) { x=x+2
 
 }
 
