@@ -15,7 +15,8 @@ makeCacheMatrix <- function(x = matrix()) { x=x+2
 
 makeCacheMatrix <- function(x = matrix()) { 
         inverse <- NULL
-        # 1. set the value of the matrix
+        # 1. set the value of the matrix : 
+        
         
         set <- function(y) {
                 
